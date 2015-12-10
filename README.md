@@ -2,4 +2,6 @@
 
 ```
 $ yt target efm32gg-stk-gcc
+$ yt install
+$ yt build
 ```
